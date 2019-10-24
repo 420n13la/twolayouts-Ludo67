@@ -50,10 +50,10 @@ a{
   text-decoration: none;
 }
 
-.avm{
+a.avm:visited{
   color: DarkSlateGray;
 }
 
-.ahm{
+a.ahm:visited{
   color: Ivory;
 }
