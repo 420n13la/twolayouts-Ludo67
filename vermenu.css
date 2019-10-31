@@ -36,7 +36,10 @@ ul li{
   
   padding: 5px;
   color:white;
+text-align:center;
 background-color:#9162e4;
+border: 2px solid white;
+border-radius:15px;
 }
 
 main{
