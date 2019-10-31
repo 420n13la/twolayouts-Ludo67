@@ -14,7 +14,6 @@ body{
 
 nav{
   float: left;
-  border 3px red solid;
   background-color:#280680;
   width: 25%;
   height: 100%;
@@ -29,12 +28,12 @@ h1{
 
 ul{
   list-style: none;
-  border: 1px velvet solid;
+  
   padding: 0;
 }
 
 ul li{
-  border: 2px white solid;
+  
   padding: 5px;
   color:white;
 }
@@ -61,6 +60,7 @@ footer{
 
 a{
 text-decoration:none;
+background-color:#9162e4;
 color:white;	
 	
 }
