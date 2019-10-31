@@ -22,8 +22,8 @@ nav{
 }
 
 h1{
-  color: white;
-  background-color: white;
+  color: #9162e4;
+  background-color:#9162e4 ;
   transparency: 0.5;
 }
 
@@ -41,7 +41,7 @@ ul li{
 
 main{
   border 3px red solid;
-  background-color: smoke;
+  background-color:#9162e4 ;
   width: 75%;
   overflow: auto;
   padding: 0px;
@@ -71,6 +71,10 @@ img{
 }
 
 #boi{
-background-color:white;
 text-size:75px;
 }
+
+p{
+color:white;
+}
+
