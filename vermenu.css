@@ -14,7 +14,7 @@ body{
 nav{
   float: left;
   border 3px red solid;
-  background-color: #573B79;
+  background-color: #5e35b1;
   width: 25%;
   height: 100%;
   padding: 10px;
@@ -48,13 +48,13 @@ main{
 }
 
 header{
-  background-color: #0020C2;
+  background-color: #280680;
   margin: 0px;
   display: inline-block;
 }
 
 footer{
-  background-color: crimson;
+  background-color: #280680;
   display: inline-block;
 }
 
