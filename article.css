@@ -84,6 +84,7 @@ text-size:75px;
 p{
 color:white;
 	text-font:times New Roman;
+	float:center;
 }
 
 #logo{
