@@ -74,6 +74,7 @@ color:white;
 img{
 	width:300px;
 	height:300px;
+	float: center;
 }
 
 #boi{
@@ -83,4 +84,10 @@ text-size:75px;
 p{
 color:white;
 	text-font:times New Roman;
+}
+
+#logo{
+width:300px;
+	height:300px;
+	float: left;
 }
